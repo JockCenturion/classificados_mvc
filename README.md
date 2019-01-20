@@ -1,3 +1,4 @@
 --- Dependências
     - Sistema wamp, xamp, lamp ou um servidor web apache.	
     - Qualquer navegador moderno
+    - O dump do banco de dados (classificados.sql) se encontra em utilitários
