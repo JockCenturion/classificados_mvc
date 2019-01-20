@@ -1,0 +1,3 @@
+--- Dependências
+    - Sistema wamp, xamp, lamp ou um servidor web apache.	
+    - Qualquer navegador moderno
